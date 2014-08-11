@@ -1,3 +1,5 @@
+GitHub URL for this project is: https://github.com/rickfogle/SelectionSort.git
+
 Rick Fogle (15 July 2014):
 Added this line just to dirty the file so I can see the -a option to git commit work.
 Rick Fogle (15 July 2014):
